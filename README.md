@@ -37,7 +37,10 @@ Kibana
         |
         v
 SOC Analyst Investigation
+```text
 
+````markdown
+```
 Tools Used
 Kali Linux
 Apache Web Server
