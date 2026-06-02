@@ -15,6 +15,16 @@ Attacker / Test Machine
 → Elasticsearch
 → Kibana
 → SOC Analyst Investigation
+## Screenshots
+
+### Apache Service Running
+![Apache Service Running](screenshots/01-apache-service-running.png)
+
+### Apache Default Page
+![Apache Default Page](screenshots/02-apache-default-page.png)
+
+### Reconnaissance Detection
+![Reconnaissance Detection](screenshots/07-kibana-recon-detection.png)
 
 ## Tools Used
 
